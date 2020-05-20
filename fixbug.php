@@ -5,8 +5,7 @@
 <body>
 	<h1>My Frist PHP page</h1>
 	<?php 
-	echo "Wednesday";
-	echo "Cloud Computing"; 
+	echo "fixbug";
 	?>
 
 </body>
