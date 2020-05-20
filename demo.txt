@@ -1,7 +1,3 @@
 Hello word
 update 1
-<<<<<<< HEAD
 update 2 and done
-=======
-update 2 and done
->>>>>>> 17bf8bf7c4cb22ac08a3618d0c07a0776ad6bfc6
