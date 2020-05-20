@@ -11,7 +11,8 @@
         <fieldset style="background-color: #FFFFCC">
             <legend>Profile</legend>
             Name: <input type="text" name="name" required maxlength="50" size="33">
-            Product Image:
+            <br><br>
+            Image:
             <!-- accept="image/*" : chỉ cho phép upload file ảnh -->
             <input type="file" name="image" accept="images/*" required>
             <br><br>
